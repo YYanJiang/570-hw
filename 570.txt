@@ -1,0 +1,7 @@
+function abc£¨£©{
+var x=10;   /»òlet 
+if(x>8){
+	var y=9;
+}
+console.log(y);
+}
